@@ -15,6 +15,7 @@ Welcome to your first assignment. This exercise gives you a brief introduction t
 - Understand the concept of "broadcasting"
 - Be able to vectorize code
 
+
 Let's get started!
 
 ## <font color="darkblue"> Updates to Assignment</font>
