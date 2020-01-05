@@ -267,6 +267,7 @@ print ("sigmoid_derivative(x) = " + str(sigmoid_derivative(x)))
     sigmoid_derivative(x) = [ 0.19661193  0.10499359  0.04517666]
 
 
+
 **Expected Output**: 
 
 
